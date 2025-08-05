@@ -1,0 +1,26 @@
+#main-header {
+    background-color: beige;
+    font-size: xx-large;
+}
+
+.four {
+    background-color: lightblue;
+    color: white;
+}
+
+.five {
+    background-color: rgb(157, 83, 226);
+    color:white;
+}
+
+body {
+    align-content: center;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.No {
+    width: 275px;
+    height: 180px;
+    text-align: center;
+}
